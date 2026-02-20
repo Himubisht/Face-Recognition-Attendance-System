@@ -38,7 +38,13 @@ Face recognition attendance system using OpenCV and LBPH algorithm. This project
 <img width="1920" height="1005" alt="Screenshot 2026-02-20 160820" src="https://github.com/user-attachments/assets/c4712d21-0ccf-41f8-8aaf-5d4787b47b31" />
 
 
+## 📌 Future Improvements
 
+- GUI Interface
+- Database Integration (MySQL)
+- Cloud Deployment
+- Face Mask Detection
+- Email Notifications
 
 ## Author
 Himanshu Bisht
